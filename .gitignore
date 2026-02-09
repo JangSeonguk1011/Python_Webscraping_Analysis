@@ -2,6 +2,7 @@
 .virtual_documents
 data/.ipynb_checkpoints/
 img/
-img.html
 *.jpg
 .env
+
+연습문제_웹스크래핑\img
